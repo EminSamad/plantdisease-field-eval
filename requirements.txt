@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+scipy
+scikit-learn
+pillow
+# optional, only for src/gradcam.py
+grad-cam
+matplotlib

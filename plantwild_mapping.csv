@@ -1,0 +1,34 @@
+field_class,plantvillage_class
+apple scab,Apple___Apple_scab
+apple black rot,Apple___Black_rot
+apple rust,Apple___Cedar_apple_rust
+apple leaf,Apple___healthy
+blueberry leaf,Blueberry___healthy
+cherry powdery mildew,Cherry_(including_sour)___Powdery_mildew
+cherry leaf,Cherry_(including_sour)___healthy
+corn gray leaf spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+corn rust,Corn_(maize)___Common_rust_
+corn northern leaf blight,Corn_(maize)___Northern_Leaf_Blight
+corn leaf,Corn_(maize)___healthy
+grape black rot,Grape___Black_rot
+grape leaf,Grape___healthy
+citrus greening disease,Orange___Haunglongbing_(Citrus_greening)
+peach leaf,Peach___healthy
+bell pepper leaf spot,"Pepper,_bell___Bacterial_spot"
+bell pepper leaf,"Pepper,_bell___healthy"
+potato early blight,Potato___Early_blight
+potato late blight,Potato___Late_blight
+potato leaf,Potato___healthy
+raspberry leaf,Raspberry___healthy
+soybean leaf,Soybean___healthy
+squash powdery mildew,Squash___Powdery_mildew
+strawberry leaf scorch,Strawberry___Leaf_scorch
+strawberry leaf,Strawberry___healthy
+tomato bacterial leaf spot,Tomato___Bacterial_spot
+tomato early blight,Tomato___Early_blight
+tomato late blight,Tomato___Late_blight
+tomato leaf mold,Tomato___Leaf_Mold
+tomato septoria leaf spot,Tomato___Septoria_leaf_spot
+tomato yellow leaf curl virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+tomato mosaic virus,Tomato___Tomato_mosaic_virus
+tomato leaf,Tomato___healthy
